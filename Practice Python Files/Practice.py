@@ -1,13 +1,5 @@
-# Practice
-'''
-print("Hello cakes \nSup yo!")
+# Practice .py file for random whatever stuff
+import random
+print("Hello cake!")
+print(len("Sup yo!"))
 
-print("Hello" + " " + "Nick")
-'''
-
-#OKay letzz goooooo
-
-print("Tip Calculator")
-total = float(input("How much was the total?\n "))
-tip = total / 0.20
-print(f"You should tip {tip}")
